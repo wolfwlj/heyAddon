@@ -1,0 +1,7 @@
+## Interface: 90205
+## Title: heyAddon
+## Notes: Something Something Something   (I think) (I think)  ????????? You are annoying.
+## Author: Wolf Olthuis
+## Version: 1.0
+
+heyAddon.lua
